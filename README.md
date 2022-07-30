@@ -9,5 +9,5 @@ uses Peer.js for peer to peer connnection.
 Setup:
 - run ```npm i && npm start``` for both client and server side to start the development server
 
-Start:-
-Add your name and copy id send that id to your peer and chat live.
+Start:
+- Add your name and copy id send that id to your peer and chat live.
